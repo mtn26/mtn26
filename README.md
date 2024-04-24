@@ -1,9 +1,9 @@
-<h1>Hi, I'm Melai! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Melai! <br/><a href="https://www.linkedin.com/in/melai-njimbong-105b361a2/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecuirty Projects:</h2>
 
-- <b> Securing Cloud Applications </b>
-  
+- <b> Azure Portal </b>
+  - [Securing Cloud Applications](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 Certfications</h2>
 
