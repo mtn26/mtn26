@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecuirty Projects:</h2>
 
 - <b> Azure Portal </b>
-  - [Securing Cloud Applications](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Securing Cloud Applications](https://github.com/mtn26/Securing-Web-Application/tree/main)
 
 <h2>📺 Certfications</h2>
 
