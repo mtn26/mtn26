@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecuirty Projects:</h2>
 
 - <b> Azure Portal </b>
-  - [Building, Securing, and Protecting a Web Application](https://github.com/mtn26/Securing-Web-Application/tree/main)
+  - [Building, Securing, and Protecting a Web Application](https://github.com/mtn26/Building-Securing-and-Protecting-Web-Application/tree/main)
 
 <h2>📺 Certfications</h2>
 
