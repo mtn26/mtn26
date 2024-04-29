@@ -5,9 +5,6 @@
 - <b> Azure Portal </b>
   - [Building, Securing, and Protecting a Web Application](https://github.com/mtn26/Building-Securing-and-Protecting-Web-Application/tree/main)
 
-<h2>📺 Certfications</h2>
-
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
