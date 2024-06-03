@@ -5,7 +5,7 @@
 - <b> Azure Portal </b>
   - [Building, Securing, and Protecting a Web Application](https://github.com/mtn26/Building-Securing-and-Protecting-Web-Application/tree/main)
 - <b> Rekall Corporation </b>
-  - [Exploit-Vulnerabilities-in-Rekall-Corporation-s-Web-Application-Linux-Servers-and-Windows-Servers](https://github.com/mtn26/Exploit-Vulnerabilities-in-Rekall-Corporation-s-Web-Application-Linux-Servers-and-Windows-Servers)
+  - [Exploit-Vulnerabilities-in-Rekall-Corporation-s-Web-Application-Linux-Servers-and-Windows-Servers](https://github.com/mtn26/Exploit-Vulnerabilities-in-Rekall-Corporation-s-Web-Application-Linux-Servers-and-Windows-Servers/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
