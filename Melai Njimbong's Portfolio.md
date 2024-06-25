@@ -8,7 +8,7 @@
   - [Exploit-Vulnerabilities-in-Rekall-Corporation-s-Web-Application-Linux-Servers-and-Windows-Servers](https://github.com/mtn26/Exploit-Vulnerabilities-in-Rekall-Corporation-s-Web-Application-Linux-Servers-and-Windows-Servers/tree/main)
 
 - <b> Defensive Security </b>
-    -[Building-a-Security-Monitoring-Environment](https://github.com/mtn26/Building-a-Security-Monitoring-Environment/tree/main)
+    - [Building-a-Security-Monitoring-Environment](https://github.com/mtn26/Building-a-Security-Monitoring-Environment/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
