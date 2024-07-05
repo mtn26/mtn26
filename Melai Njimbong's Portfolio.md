@@ -1,6 +1,6 @@
 <h1>Hi, I'm Melai! <br/><a href="https://www.linkedin.com/in/melai-njimbong-105b361a2/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecuirty Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b> Azure Portal </b>
   - [Building, Securing, and Protecting a Web Application](https://github.com/mtn26/Building-Securing-and-Protecting-Web-Application/tree/main)
@@ -17,7 +17,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/Melai_Njimbong
-[linkedin]: https://www.linkedin.com/in/melai-njimbong-105b361a2/
+[linkedin]: https://www.linkedin.com/in/melai-njimbong/
 [instagram]: https://www.instagram.com/melai_1995/
 
 <!--
