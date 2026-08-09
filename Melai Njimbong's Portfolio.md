@@ -10,8 +10,6 @@
 - <b> Defensive Security </b>
     - [Building-a-Security-Monitoring-Environment](https://github.com/mtn26/Building-a-Security-Monitoring-Environment/tree/main)
  
-- <b> Password Security </b>
-    - [Password-Security-Strength-Complexity](https://github.com/mtn26/Password-Strength-Complexity-and-Security/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
